@@ -1,0 +1,6 @@
+hash: 38744a8aab79ff793a4d5bc9a5f8b69eac12daad74f33697445f46b7bbbc384e
+updated: 2017-04-23T21:33:53.475444566+07:00
+imports:
+- name: github.com/rjeczalik/notify
+  version: 660542b98f76c58910002c82e912b71248f4daa0
+testImports: []
